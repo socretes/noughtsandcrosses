@@ -1,5 +1,4 @@
 
 *.log
 
-middleware/
 node_modules/
